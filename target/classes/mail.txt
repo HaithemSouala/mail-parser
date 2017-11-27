@@ -1,0 +1,357 @@
+<div id=":m9" class="ii gt adP adO"><div id=":m8" class="a3s aXjCH m15ffc9ab5c0244ce"><div class="adM">
+
+
+
+
+
+
+</div><div bgcolor="white" lang="FR" link="blue" vlink="purple"><div class="adM">
+</div><div class="m_-7228778032245979635WordSection1"><div class="adM">
+</div><p class="MsoNormal"><span lang="EN-US"><u></u>&nbsp;<u></u></span></p>
+<p class="MsoNormal"><span lang="EN-US"><u></u>&nbsp;<u></u></span></p>
+<div>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#4b575f">Cordialement<u></u><u></u></span></p>
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#4b575f">Haïthem SOUALA</span></b><u></u><u></u></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#4b575f">Gfi<b>
+</b>Informatique – Tech Lead</span><u></u><u></u></p>
+<p class="MsoNormal"><span style="font-size:9.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#4b575f">Branche Outsourcing Services</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#4b575f"><u></u><u></u></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#4b575f"><a href="mailto:haithem.souala@gfi.fr" target="_blank"><span style="color:#0563c1">haithem.souala@gfi.fr</span></a></span><u><span style="color:#0563c1"><u></u><u></u></span></u></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#4b575f">—</span><u></u><u></u></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#4b575f">70 rue Saint sauveur 59000 LILLE</span><u></u><u></u></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#4b575f">Bâtiment Lille 3 - 2<sup>ème</sup> étage</span><u></u><u></u></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#4b575f">—</span><u></u><u></u></p>
+<p class="MsoNormal"><b><i><span style="font-size:24.0pt;font-family:Webdings;color:#76923c">P</span></i></b><span style="color:#76923c">&nbsp;
+</span><i><span style="font-size:7.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#76923c">Pensez à l'environnement... économisez le papier, n'imprimez ce message que si réellement nécessaire</span></i><span style="color:#76923c"><u></u><u></u></span></p>
+</div>
+<p class="MsoNormal"><span><u></u>&nbsp;<u></u></span></p>
+<div>
+<div style="border:none;border-top:solid #e1e1e1 1.0pt;padding:3.0pt 0cm 0cm 0cm">
+<p class="MsoNormal"><b>De&nbsp;:</b> theseus.wkfbap_dev <br>
+<b>Envoyé&nbsp;:</b> vendredi 13 octobre 2017 15:56<br>
+<b>À&nbsp;:</b> Siassi Alexandre &lt;<a href="mailto:alexandre.siassi@gfi.fr" target="_blank">alexandre.siassi@gfi.fr</a>&gt;<br>
+<b>Objet&nbsp;:</b> Action requise : FR410 &gt; La facture 8128060696F de TECH DATA requiert votre approbation<u></u><u></u></p>
+</div>
+</div>
+<p class="MsoNormal"><u></u>&nbsp;<u></u></p>
+<table class="m_-7228778032245979635MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%">
+<tbody>
+<tr>
+<td width="30%" valign="top" style="width:30.0%;padding:0cm 0cm 0cm 0cm">
+<table class="m_-7228778032245979635MsoNormalTable" border="0" cellpadding="0" summary="Historique des actions" width="100%" style="width:100.0%">
+<tbody>
+<tr>
+<td style="padding:0cm 0cm 0cm 0cm">
+<table class="m_-7228778032245979635MsoNormalTable" border="0" cellspacing="0" cellpadding="0" summary="Historique des actions" width="100%" style="width:100.0%;background:white">
+<tbody>
+<tr>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:8.0pt;color:black">A</span><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black"><u></u><u></u></span></p>
+</td>
+<td width="12" style="width:9.0pt;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">&nbsp;<u></u><u></u></span></p>
+</td>
+<td width="12" valign="top" style="width:9.0pt;padding:0cm 0cm 0cm 0cm"></td>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">ASIASSI<u></u><u></u></span></b></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">Envoyé<u></u><u></u></span></p>
+</td>
+<td width="12" style="width:9.0pt;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">&nbsp;<u></u><u></u></span></p>
+</td>
+<td width="12" valign="top" style="width:9.0pt;padding:0cm 0cm 0cm 0cm"></td>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">13/10/2017 16:08:52<u></u><u></u></span></b></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">Attendu<u></u><u></u></span></p>
+</td>
+<td width="12" style="width:9.0pt;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">&nbsp;<u></u><u></u></span></p>
+</td>
+<td width="12" valign="top" style="width:9.0pt;padding:0cm 0cm 0cm 0cm"></td>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">13/10/2017 17:35:16<u></u><u></u></span></b></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">ID
+<u></u><u></u></span></p>
+</td>
+<td width="12" style="width:9.0pt;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">&nbsp;<u></u><u></u></span></p>
+</td>
+<td width="12" valign="top" style="width:9.0pt;padding:0cm 0cm 0cm 0cm"></td>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">45026<u></u><u></u></span></b></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<table class="m_-7228778032245979635MsoNormalTable" border="0" cellpadding="0" summary="Historique des actions" width="100%" style="width:100.0%">
+<tbody>
+<tr>
+<td style="padding:0cm 0cm 0cm 0cm">
+<table class="m_-7228778032245979635MsoNormalTable" border="0" cellspacing="0" cellpadding="0" summary="Historique des actions" width="100%" style="width:100.0%;background:white">
+<tbody>
+<tr>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">Nom du fournisseur<u></u><u></u></span></p>
+</td>
+<td width="12" style="width:9.0pt;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">&nbsp;<u></u><u></u></span></p>
+</td>
+<td width="12" valign="top" style="width:9.0pt;padding:0cm 0cm 0cm 0cm"></td>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">TECH DATA<u></u><u></u></span></b></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">Numéro de facture<u></u><u></u></span></p>
+</td>
+<td width="12" style="width:9.0pt;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">&nbsp;<u></u><u></u></span></p>
+</td>
+<td width="12" valign="top" style="width:9.0pt;padding:0cm 0cm 0cm 0cm"></td>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">8128060696F<u></u><u></u></span></b></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">Date de la facture<u></u><u></u></span></p>
+</td>
+<td width="12" style="width:9.0pt;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">&nbsp;<u></u><u></u></span></p>
+</td>
+<td width="12" valign="top" style="width:9.0pt;padding:0cm 0cm 0cm 0cm"></td>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">25/09/2017<u></u><u></u></span></b></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">Total facture<u></u><u></u></span></p>
+</td>
+<td width="12" style="width:9.0pt;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">&nbsp;<u></u><u></u></span></p>
+</td>
+<td width="12" valign="top" style="width:9.0pt;padding:0cm 0cm 0cm 0cm"></td>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">2073.89<u></u><u></u></span></b></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">Description de la facture<u></u><u></u></span></p>
+</td>
+<td width="12" style="width:9.0pt;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">&nbsp;<u></u><u></u></span></p>
+</td>
+<td width="12" valign="top" style="width:9.0pt;padding:0cm 0cm 0cm 0cm"></td>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">TECH DATA FORMATION COMPTABLE<u></u><u></u></span></b></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">Devise de la facture<u></u><u></u></span></p>
+</td>
+<td width="12" style="width:9.0pt;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">&nbsp;<u></u><u></u></span></p>
+</td>
+<td width="12" valign="top" style="width:9.0pt;padding:0cm 0cm 0cm 0cm"></td>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">EUR<u></u><u></u></span></b></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="margin-bottom:12.0pt"><br>
+Au besoin, vous pouvez contacter <b><a href="mailto:alexandre.siassi@gfi.fr" target="_blank">Alexandre SIASSI</a></b> en charge de cette facture.<u></u><u></u></p>
+<table class="m_-7228778032245979635MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%">
+<tbody>
+<tr>
+<td style="border:none;border-bottom:solid #aabed5 1.0pt;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" style="margin-top:3.75pt"><b><span style="font-size:8.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#426ca7">Détail des ventilations<u></u><u></u></span></b></p>
+</td>
+</tr>
+<tr>
+<td style="padding:0cm 0cm 0cm 0cm;border-style:hidden none none hidden">
+<table class="m_-7228778032245979635MsoNormalTable" border="0" cellpadding="0" summary="Lignes de distributions" width="100%" style="width:100.0%">
+<tbody>
+<tr>
+<td style="padding:0cm 0cm 0cm 0cm">
+<table class="m_-7228778032245979635MsoNormalTable" border="1" cellspacing="0" cellpadding="0" summary="Lignes de distributions" width="100%" style="width:100.0%;border-collapse:collapse;border:none">
+<tbody>
+<tr>
+<td colspan="5" style="border:inset #c9cbd3 1.0pt;padding:0cm 0cm 0cm 0cm"></td>
+<td width="5%" colspan="2" valign="bottom" style="width:5.0%;border:inset #c9cbd3 1.0pt;border-left:none;background:#cfe0f1;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">Montant à valider<u></u><u></u></span></b></p>
+</td>
+</tr>
+<tr>
+<td width="5%" valign="bottom" style="width:5.0%;border:inset #c9cbd3 1.0pt;border-top:none;background:#cfe0f1;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal"><span class="m_-7228778032245979635oratableheaderlink1"><span style="font-size:8.0pt">N° Ligne</span></span><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></b></p>
+</td>
+<td width="5%" valign="bottom" style="width:5.0%;border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#cfe0f1;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal"><span class="m_-7228778032245979635oratableheaderlink1"><span style="font-size:8.0pt">Type</span></span><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></b></p>
+</td>
+<td width="15%" valign="bottom" style="width:15.0%;border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#cfe0f1;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal"><span class="m_-7228778032245979635oratableheaderlink1"><span style="font-size:8.0pt">Description</span></span><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></b></p>
+</td>
+<td width="5%" valign="bottom" style="width:5.0%;border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#cfe0f1;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal"><span class="m_-7228778032245979635oratableheaderlink1"><span style="font-size:8.0pt">Compte</span></span><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></b></p>
+</td>
+<td width="5%" valign="bottom" style="width:5.0%;border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#cfe0f1;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal"><span class="m_-7228778032245979635oratableheaderlink1"><span style="font-size:8.0pt">Cost</span></span><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></b></p>
+</td>
+<td width="5%" valign="bottom" style="width:5.0%;border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#fff380;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal"><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">ASIASSI<u></u><u></u></span></b></p>
+</td>
+<td width="5%" valign="bottom" style="width:5.0%;border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#cfe0f1;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal"><span class="m_-7228778032245979635oratableheaderlink1"><span style="font-size:8.0pt">Autres approbateurs</span></span><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></b></p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style="border:inset #c9cbd3 1.0pt;border-top:none;background:#f2f2f5;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">1.1<u></u><u></u></span></p>
+</td>
+<td valign="bottom" style="border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#f2f2f5;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">Article<u></u><u></u></span></p>
+</td>
+<td valign="bottom" style="border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#f2f2f5;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">TECH DATA FORMATION COMPTABLE<u></u><u></u></span></p>
+</td>
+<td valign="bottom" style="border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#f2f2f5;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">622311<u></u><u></u></span></p>
+</td>
+<td valign="bottom" style="border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#f2f2f5;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">C573317_410<u></u><u></u></span></p>
+</td>
+<td valign="bottom" style="border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#fff380;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">1728.24<u></u><u></u></span></p>
+</td>
+<td valign="bottom" style="border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#f2f2f5;padding:0cm 0cm 0cm 0cm">
+</td>
+</tr>
+<tr>
+<td colspan="4" style="border:inset #c9cbd3 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;border-style:hidden hidden">
+</td>
+<td width="5%" valign="bottom" style="width:5.0%;border-top:none;border-left:none;border-bottom:double #c9cbd3 1.0pt;border-right:double #c9cbd3 1.0pt;background:#cfe0f1;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">Total<u></u><u></u></span></b></p>
+</td>
+<td valign="bottom" style="border-top:none;border-left:none;border-bottom:double #c9cbd3 1.0pt;border-right:double #c9cbd3 1.0pt;background:#fff380;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">1728.24</span></b><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></p>
+</td>
+<td valign="bottom" style="border-top:none;border-left:none;border-bottom:double #c9cbd3 1.0pt;border-right:double #c9cbd3 1.0pt;background:#f2f2f5;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">0</span></b><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="margin:0cm;margin-bottom:.0001pt"><span style="display:none"><u></u>&nbsp;<u></u></span></p>
+<table class="m_-7228778032245979635MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%">
+<tbody>
+<tr>
+<td style="border:none;border-bottom:solid #aabed5 1.0pt;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" style="margin-top:3.75pt"><b><span style="font-size:8.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#426ca7">Historique des actions<u></u><u></u></span></b></p>
+</td>
+</tr>
+<tr>
+<td style="padding:0cm 0cm 0cm 0cm">
+<table class="m_-7228778032245979635MsoNormalTable" border="0" cellpadding="0" summary="Historique des actions" width="100%" style="width:100.0%">
+<tbody>
+<tr>
+<td style="padding:0cm 0cm 0cm 0cm">
+<table class="m_-7228778032245979635MsoNormalTable" border="1" cellspacing="0" cellpadding="0" summary="Historique des actions" width="100%" style="width:100.0%;border-collapse:collapse;border:none">
+<tbody>
+<tr>
+<td width="5%" valign="bottom" style="width:5.0%;border:inset #c9cbd3 1.0pt;background:#cfe0f1;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal"><span class="m_-7228778032245979635oratableheaderlink1"><span style="font-size:8.0pt">Num.</span></span><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></b></p>
+</td>
+<td width="15%" valign="bottom" style="width:15.0%;border:inset #c9cbd3 1.0pt;border-left:none;background:#cfe0f1;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal"><span class="m_-7228778032245979635oratableheaderlink1"><span style="font-size:8.0pt">Date de l'action</span></span><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></b></p>
+</td>
+<td width="10%" valign="bottom" style="width:10.0%;border:inset #c9cbd3 1.0pt;border-left:none;background:#cfe0f1;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal"><span class="m_-7228778032245979635oratableheaderlink1"><span style="font-size:8.0pt">Action</span></span><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></b></p>
+</td>
+<td width="15%" valign="bottom" style="width:15.0%;border:inset #c9cbd3 1.0pt;border-left:none;background:#cfe0f1;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal"><span class="m_-7228778032245979635oratableheaderlink1"><span style="font-size:8.0pt">De</span></span><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></b></p>
+</td>
+<td width="15%" valign="bottom" style="width:15.0%;border:inset #c9cbd3 1.0pt;border-left:none;background:#cfe0f1;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal"><span class="m_-7228778032245979635oratableheaderlink1"><span style="font-size:8.0pt">A</span></span><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></b></p>
+</td>
+<td width="40%" valign="bottom" style="width:40.0%;border:inset #c9cbd3 1.0pt;border-left:none;background:#cfe0f1;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal"><span class="m_-7228778032245979635oratableheaderlink1"><span style="font-size:8.0pt">Détails</span></span><b><span style="font-size:8.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c"><u></u><u></u></span></b></p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style="border:inset #c9cbd3 1.0pt;border-top:none;background:#f2f2f5;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">1<u></u><u></u></span></p>
+</td>
+<td valign="bottom" style="border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#f2f2f5;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">13/10/2017 16:08:52<u></u><u></u></span></p>
+</td>
+<td valign="bottom" style="border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#f2f2f5;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">Soumettre<u></u><u></u></span></p>
+</td>
+<td valign="bottom" style="border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#f2f2f5;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">Accounts Payable<u></u><u></u></span></p>
+</td>
+<td valign="bottom" style="border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#f2f2f5;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">ASIASSI<u></u><u></u></span></p>
+</td>
+<td valign="bottom" style="border-top:none;border-left:none;border-bottom:inset #c9cbd3 1.0pt;border-right:inset #c9cbd3 1.0pt;background:#f2f2f5;padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:#3c3c3c">&nbsp;<u></u><u></u></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Cliquez sur l'un des choix suivants pour générer automatiquement une réponse par email. Avant d'envoyer votre réponse pour fermer cette notification, assurez-vous que les invites de réponse comprennent la valeur de réponse souhaitée entre guillemets.
+<u></u><u></u></p>
+<p>RESULT<u></u><u></u></p>
+<p>RESULT: <a href="mailto:theseus.wkfbap_dev@gfi.fr?subject=%20Action%20requise%20:%20FR410%20%3e%20La%20facture%208128060696F%20de%20TECH%20DATA%20requiert%20votre%20approbation&amp;body=%20RESULT:%20%5bApprouver%5d%0D%0A%0D%0ANote:%20%5b%5d%0D%0A%0D%0A%0D%0A%0D%0ANID%5b45026%2f300681967246747234081415031993525516161%40WFMAIL%5d" target="_blank">
+<b><span style="font-size:13.5pt">Approuver</span></b></a> &nbsp;&nbsp;<a href="mailto:theseus.wkfbap_dev@gfi.fr?subject=%20Action%20requise%20:%20FR410%20%3e%20La%20facture%208128060696F%20de%20TECH%20DATA%20requiert%20votre%20approbation&amp;body=%20RESULT:%20%5bRejeter%5d%0D%0A%0D%0ANote:%20%5b%5d%0D%0A%0D%0A%0D%0A%0D%0ANID%5b45026%2f300681967246747234081415031993525516161%40WFMAIL%5d" target="_blank"><b><span style="font-size:13.5pt">Rejeter</span></b></a>
+<u></u><u></u></p><div class="yj6qo"></div><div class="adL">
+</div></div><div class="adL">
+</div></div><div class="adL">
+
+</div></div></div>
